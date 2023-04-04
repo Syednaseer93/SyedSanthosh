@@ -1,7 +1,8 @@
 
 public class Naseer {
-	public static void main(String[] args) {
-		System.out.println("---from Santhosh----");
-	}
 
+public static void main(String[] args) {
+	System.out.println("--- from master--");
+	System.out.println("----from santhosh---");
+}
 }
